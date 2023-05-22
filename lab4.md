@@ -6,6 +6,7 @@ Log into your ieng6 account by typing `$ ssh cs15lsp23zz@ieng6.ucsd.edu`. Replac
 
 Step 2
 To clone the fork of the repository copy and paste this into terminal `$ git clone https://github.com/ucsd-cse15l-s23/lab7 <enter>`.
+It says in the image I already created one before I took a screenshot.
 ![Image](cse15l-forkrepository.png)
 
 Step 3
