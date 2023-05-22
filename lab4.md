@@ -18,6 +18,7 @@ To open up vim type `vim listexamples.java` and hit `<enter>`.
 Press the key `<J>` until you get to line 44 which is where the error is. 
 Press the key `<L>` 12 times then press `<i>` once. Click `<delete>`, and then click `<2> hit `<esc>` to go back to normal mode.
 Finally save the changes we made by typing `:wq! <enter>`. 
+![Image](cse15l-Changingindex.png)
   
 Step 5
 Now to test our changes we can reenter the code we inputed before, but we first need to recompile our file.
