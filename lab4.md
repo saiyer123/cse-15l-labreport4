@@ -29,6 +29,11 @@ Now we can enter `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.
 Now it should display that there are no errors in the code. 
 ![Image](cse15l-passtest.png)
 
+### Step 6
+To commit and push your saved changes to Github type in terminal `git push origin` and then hit `<enter>`. It will ask you for your
+username and password so type those out. 
+![Image](cs15l-lab4-githubaccount.png)
+
   
 
 
