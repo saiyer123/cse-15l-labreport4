@@ -12,7 +12,7 @@ It says in the image I already created one before I took a screenshot.
 Step 3
 In terminal type `cd lab7` and hit `<enter>`. Than paste this, `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests <enter>`
 It should say there is one failure, so to fix this we need to open up the code in vim.
-![Image](cse15l-testfailure.png)
+![Image](cs15l-lab4-errorcode.png)
  
 Step 4 
 To open up vim type `vim listexamples.java` and hit `<enter>`.
