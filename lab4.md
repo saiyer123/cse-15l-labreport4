@@ -17,7 +17,7 @@ It should say there is one failure, so to fix this we need to open up the code i
 ### Step 4 
 To open up vim type `vim listexamples.java` and hit `<enter>`.
 Press the key `<J>` until you get to line 44 which is where the error is. 
-Press the key `<L>` 12 times then press `<i>` once. Click `<delete>`, and then click `<2> hit `<esc>` to go back to normal mode.
+Press the key `<L>` 12 times then press `<i>` once. Click `<delete>`, and then click `<2>` hit `<esc>` to go back to normal mode.
 Finally save the changes we made by typing
 `:wq! <enter>`. 
 ![Image](cse15l-Changingindex.png)
