@@ -30,8 +30,10 @@ Now it should display that there are no errors in the code.
 ![Image](cse15l-passtest.png)
 
 ### Step 6
-To commit and push your saved changes to Github type in terminal `git push origin` and then hit `<enter>`. It will ask you for your
-username and password so type those out. 
+To commit and push your saved changes to Github you first need to update the file. Type `git add listexamples.java` `<enter>`. Then
+type in terminal `git commit -m "Your commit message"` `<enter>`. you can write any commit message you want.
+![Image](cs15l-lab4-commitmsg.png)
+Then to push it do `git push origin` and then hit `<enter>`. It will ask you for your username and password so type those out. 
 ![Image](cs15l-lab4-githubaccount.png)
 
   
